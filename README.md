@@ -71,7 +71,7 @@ and does not represent official business decisions or proprietary company data.
 ## Dashboard Preview
 
 ### Sentiment Overview
-![Sentiment Overview](screenshots/01_sentiment_overview.png)
+![Sentiment Overview](screenshots/01_sentiment_overview..png)
 
 ### Sentiment Trends & Drivers
 ![Sentiment Trends & Drivers](screenshots/02_sentiment_trends_drivers.png)
